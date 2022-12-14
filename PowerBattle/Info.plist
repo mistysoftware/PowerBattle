@@ -41,6 +41,8 @@
 	<string>????</string>
 	<key>CFBundleShortVersionString</key>
 	<string>0.1.1</string>
+	<key>NSHumanReadableCopyright</key>
+	<string>Copyright © 2022 Misty Software, LLP. All rights reserved.</string>
 	<key>NSMainNibFile</key>
 	<string>MainMenu</string>
 	<key>NSPrincipalClass</key>
