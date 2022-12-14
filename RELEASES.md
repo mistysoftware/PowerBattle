@@ -1,3 +1,8 @@
+Version 0.2 (2022-12-14)
+=========================
+ * copyright
+ * tabs, not spaces
+
 Version 0.1.1 (2022-12-14)
 =========================
  * bundle identifier
