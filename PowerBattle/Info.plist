@@ -40,7 +40,7 @@
 	<key>CFBundleSignature</key>
 	<string>????</string>
 	<key>CFBundleShortVersionString</key>
-	<string>0.2</string>
+	<string>0.3</string>
 	<key>NSHumanReadableCopyright</key>
 	<string>Copyright © 2022-2024 Misty Software, LLP. All rights reserved.</string>
 	<key>NSMainNibFile</key>
