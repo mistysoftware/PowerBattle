@@ -3,7 +3,7 @@
 //  PowerBattle
 //
 //  Created by Keith Malkin on 10/27/22.
-//  Copyright __MyCompanyName__ 2022 . All rights reserved.
+//  Copyright © 2022-2024 Misty Software, LLP. All rights reserved.
 //
 
 #import "MyDocument.h"
