@@ -1,3 +1,8 @@
+Version 0.2.1 (2024-01-30)
+=========================
+ * file reorganization
+ * UI cleanup
+
 Version 0.2 (2024-01-29)
 =========================
  * xib tools bump
