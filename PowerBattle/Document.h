@@ -1,5 +1,5 @@
 //
-//  MyDocument.h
+//  Document.h
 //  PowerBattle
 //
 //  Created by Keith Malkin on 10/27/22.
@@ -9,7 +9,7 @@
 
 #import <Cocoa/Cocoa.h>
 
-@interface MyDocument : NSDocument
+@interface Document : NSDocument
 {
 }
 @end

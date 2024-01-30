@@ -1,14 +1,14 @@
 //
-//  MyDocument.m
+//  Document.m
 //  PowerBattle
 //
 //  Created by Keith Malkin on 10/27/22.
 //  Copyright © 2022-2024 Misty Software, LLP. All rights reserved.
 //
 
-#import "MyDocument.h"
+#import "Document.h"
 
-@implementation MyDocument
+@implementation Document
 
 - (id)init
 {
@@ -26,7 +26,7 @@
 {
     // Override returning the nib file name of the document
     // If you need to use a subclass of NSWindowController or if your document supports multiple NSWindowControllers, you should remove this method and override -makeWindowControllers instead.
-    return @"MyDocument";
+    return @"Document";
 }
 
 - (void)windowControllerDidLoadNib:(NSWindowController *) aController
